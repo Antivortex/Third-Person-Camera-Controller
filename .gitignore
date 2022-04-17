@@ -1,0 +1,53 @@
+# GitIgnore file took from: http://kleber-swf.com/the-definitive-gitignore-for-unity-projects/
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+*/Library/
+*/Library-Android/
+*/Library-iOS/
+*/ProjectSettings/ProjectVersion.txt
+*/Assets/StreamingAssets/build_info.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.cd
+*.dgml
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db*
+*.sublime*
+unity/xcode-build
+unity/android-build
+*.pyc*
+*.sync*
+
+# ===================================== #
+# Protobuf bin/obj #
+# ===================================== #
+protobuf/*/bin/*
+protobuf/*/obj/*
+protobuf/serializer/local.bat
+protobuf/serializer/local.var
