@@ -2,5 +2,4 @@
 
 This repo contains one of my pet projects made for fun and learning - a third person camera controller centered to a point with elastic rotation constraints
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/WeKI0ZmaQ2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
+[![Showcase YouTube video](https://img.youtube.com/vi/WeKI0ZmaQ2s/0.jpg)](https://www.youtube.com/watch?v=WeKI0ZmaQ2s "Showcase YouTube video")
